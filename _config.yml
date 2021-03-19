@@ -1,0 +1,19 @@
+# Site settings
+title: Leslie Li's Personal Website
+name: Leslie Li # your name
+email: rlli@umd.edu # your email address
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# usernames
+twitter_username: Leslie_LRL # your Twitter username
+github_username: smiledra
+disqus_username: # your disqus username
+
+google-analytics: UA-144901284-1 # add it if you have one
+
+skillstree: true
+
+# Build settings
+permalink: none
+markdown: kramdown
