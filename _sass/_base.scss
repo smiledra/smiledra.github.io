@@ -1,3 +1,5 @@
+// Colors are drawn from the Deep Autumn palette: https://www.color-hex.com/color-palette/1015101
+
 /**
  * Basic styling
  */
@@ -94,7 +96,7 @@ h6 {
  */
 
 a {
-    color: #25b3bc;
+    color: #69241B;
     text-decoration: none;
     transition: border .5s;
 }
@@ -105,20 +107,20 @@ a:hover {
 
 
 .post-content h2:before {
-    content: "¶ ";
+    content: "⸿ "; // ¶
     margin-right: 20px;
-    color: #25bcba;
+    color: #ba3e44;
 }
 
 .link {
     padding: 2px;
-    color: #25b3bc;
+    color: #69241B;
     text-decoration: none;
-    transition: background-color .7s;
+    transition: background-color .6s;
 }
 
 .link:hover {
-    background-color: #e6e6e6;
+    background-color: #e8ebec;
     border: none;
 }
 
@@ -155,10 +157,10 @@ a:hover {
  * Blockquotes
  */
 blockquote {
-    border-left: 5px solid #eee;
+    border-left: 5px solid #a3b1b6;
     margin-left: 30px;
-    padding: 5px 15px;
-    color: #888888;
+    padding: 0px 10px;
+    color: #00567b;
 }
 
 
@@ -169,7 +171,7 @@ hr {
     border: none;
     height: 1px;
     margin: 40px auto;
-    background: #dcdcdc;
+    background: #5d9ea0;
     width: 100%;
 }
 
@@ -181,10 +183,10 @@ hr {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid #f8f8f8;
+    border: 1px solid #e8ebec;
     border-radius: 3px;
-    background-color: #f8f8f8;
-    color: #27badf;
+    background-color: #e8ebec;
+    color: #150705;
 }
 
 code {
@@ -200,22 +202,6 @@ pre {
         padding-right: 0;
         padding-left: 0;
     }
-}
-
-
-/**
- * Table
- */
-
-table, th {
-    width: 100%;
-    table-layout: fixed;
-    margin: 24px;
-    text-align: center;
-    border-bottom: 1px solid #eee;
-    border-collapse: collapse;
-line-height: 25px;
-letter-spacing: 1px;
 }
 
 
@@ -290,7 +276,7 @@ letter-spacing: 1px;
     width: 100%;
     text-align: center;
     display: block;
-    color: #aaa;
+    color: #00567b;
     letter-spacing: 4px;
     position: relative;
     top: -8px;
@@ -311,7 +297,7 @@ letter-spacing: 1px;
     width: 100%;
     text-align: center;
     display: block;
-    color: #aaa;
+    color: #812b2f;
     letter-spacing: 4px;
     position: relative;
     top: -8px;
@@ -320,7 +306,7 @@ letter-spacing: 1px;
 /**
  * top-nav - new
  */
- 
+
 .topnav {
   overflow: hidden;
   text-align: center;
@@ -329,7 +315,7 @@ letter-spacing: 1px;
 
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: #f04c3a;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;

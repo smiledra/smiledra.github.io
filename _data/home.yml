@@ -1,0 +1,22 @@
+project_entries:
+  - title: Rhythm in Speech
+    url: research/CCN2022_Li_et_al_Final.pdf
+    desc: How does the brain represent and learn rhythm in speech? Is this related to musical rhythm?
+    highlight: ongoing
+
+  - title: Input to Phonetic Learning Models
+    url: research/CogSci2020.pdf
+    desc: Number and composition of speakers affect the outcome of a model of early phonetic learning.
+
+  - title: Foreign-Accented Speech Corpus
+    url: research/Li_Xie_Jaeger_AMLaP2018_corpus.pdf
+    desc: A corpus containing native and Mandarin-accented English, including isolated words and connected speech.
+
+old_project_entries:
+  - title: Evolution of Musical Cadences
+    url: research/CMSC828F_Final_Paper.pdf
+    desc: Semester project simulating the change of cadences in music, from the 1400s to the Renaissance.
+
+  - title: Confirmation Bias and Information Structure
+    url: research/BCS207_finalPaper_LL.pdf
+    desc: Replication and expansion on an existing model of confirmation bias, with human data.

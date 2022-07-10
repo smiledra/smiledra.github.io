@@ -2,7 +2,7 @@
 layout: post
 title: "Lurraren Pian: translation and IPA"
 date: 2020-05-08
-tags: [Music, lyrics, IPA, Basque]
+tags: [Music, IPA]
 finished: true
 ---
 
@@ -93,7 +93,7 @@ The text that I use is taken from the Basque Songbook, from the site Eusko Ikask
 
 ## Translation
 
-First, please enjoy a Basque-to-English translation by Google translate:
+Please enjoy a Basque-to-English translation by Google translate:
 
 >I can enter the earth, my dear, with your might!<br>
 I have made five thoughts of having to marry you;<br>
@@ -114,12 +114,9 @@ First of all, the beautiful bird khantuz phaguan!<br>
 Love yourselves, my love, in your goodness;<br>
 I don't want to rape you in love:<br>
 If I die of this Changri, remember that,<br>
-I'll be alone in the world! "<br>
+I'll be alone in the world! <br>
 
-Seems like there are words that Google translate doesn't know very well. For the sake of understanding the music, I want a better translation from French. I'm not very good at French though, and the request is pending at someone to help me translate it. 
-
-
-
+... Seems like there are words that Google translate doesn't know very well.
 
 
 ## References:

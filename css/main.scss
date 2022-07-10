@@ -6,20 +6,21 @@
 
 
 // Our variables
-$base-font-family: "Lucida Sans Unicode", Noto Sans, sans-serif;
+$base-font-family: 'Inconsolata';
 $base-font-size:   17px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 1.2;
 
-$spacing-unit:     30px;
+$spacing-unit:     20px;
+
 
 $text-color:       #111;
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
 $grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
+$grey-color-light: lighten($grey-color, 40%); //#5D9EA0;
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
@@ -28,26 +29,17 @@ $content-width:    1000px;
 $on-palm:          800px;
 $on-laptop:        1200px;
 
-
-
 // Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
     }
 }
 
-
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
         "layout",
+        "project",
         "syntax-highlighting"
 ;

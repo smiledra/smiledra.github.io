@@ -5,16 +5,15 @@
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  
+
   <center>
-  
+
   <p>
-  <a class="link" href="{{ site.baseurl }}/">Main Page</a>   |
-  <a class="link" href="{{ site.baseurl }}/research/">Research</a>   |
-  <a class="link" href="{{ site.baseurl }}/music/">Musical interests</a>   |
-  <a class="link" href="{{ site.baseurl }}/archive/">Miscellanea Posts</a>   |
-  <a class="link" href="{{ site.baseurl }}/resources/">Resources</a>
+  <a class="link" href="{{ site.baseurl }}/">Home</a>   /
+  <a class="link" href="{{ site.baseurl }}/research/">Research</a>   /
+  <a class="link" href="{{ site.baseurl }}/music/">Music</a>   /
+  <a class="link" href="{{ site.baseurl }}/archive/">Blog</a>
   </p>
   </center>
-  
+
 </head>

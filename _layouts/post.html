@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<head>
+<link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
+</head>
+
   <header class="post-header">
 
     <center><div class="post-title" itemprop="name headline">{{ page.title }}</div>
@@ -11,7 +15,7 @@ layout: default
 		{% if page.author %}&nbsp;&nbsp;•&nbsp;&nbsp;<i class="fa fa-user-secret"></i> <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span>
         {% endif %}
 		<br>
-		<i class="fa fa-eye"></i> 
+		<i class="fa fa-eye"></i>
 
 	</div>
 
@@ -22,7 +26,7 @@ layout: default
         {% endfor %}
 	{% endif %}</div>
     </center>
-    
+
 </header>
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
