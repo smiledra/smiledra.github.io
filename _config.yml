@@ -15,5 +15,5 @@ google-analytics: UA-144901284-1 # add it if you have one
 #skillstree: true
 
 # Build settings
-permalink: none
+# permalink: none
 markdown: kramdown
