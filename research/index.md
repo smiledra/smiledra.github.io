@@ -17,7 +17,7 @@ I also actively contributed towards building a speech corpus of Mandarin-accente
 
 ### 2022
 
-__Li, R.__, Schatz, T., Feldman, N.H., 2022. Modeling rhythm in speech as in music: Towards a unified cognitive representation. To be presented at Cognitive Computational Neuroscience (CCN). [[paper](CCN2022_Li_et_al_Final.pdf)]
+__Li, R.__, Schatz, T., Feldman, N.H., 2022. Modeling rhythm in speech as in music: Towards a unified cognitive representation. To be presented at Cognitive Computational Neuroscience (CCN). [[paper](CCN2022_Li_et_al_Final_corrected.pdf)]
 
 ### 2020
 
